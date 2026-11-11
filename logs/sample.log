@@ -1,0 +1,6 @@
+[INFO] Starting build process
+[INFO] Checking dependencies
+[INFO] Compiling Java files
+[ERROR] Cannot find symbol: variable x
+[ERROR] Compilation failed
+[INFO] Build terminated
